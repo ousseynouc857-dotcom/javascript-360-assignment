@@ -1,4 +1,8 @@
-# Drum Kit
+# javascript-360-assignment
+
+A collection of projects based on Wes Bos JavaScript course videos.
+
+## Drum Kit
 
 A browser drum kit that plays a drum sound when you press its matching key
 (A, S, D, F, G, H, J, K, or L).
